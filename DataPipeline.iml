@@ -7,5 +7,11 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="scala-sdk-2.13.12" level="application" />
+    <orderEntry type="library" name="apache.kafka.connect" level="project" />
+    <orderEntry type="library" name="apache.kafka.clients" level="project" />
+    <orderEntry type="library" name="apache.spark.sql_2.13" level="project" />
+    <orderEntry type="library" name="apache.spark.streaming_2.13" level="project" />
+    <orderEntry type="library" name="apache.spark.sql.kafka.0.10_2.13" level="project" />
   </component>
 </module>
